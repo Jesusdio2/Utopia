@@ -1,3 +1,5 @@
-A Recompiled Version of Utopia.
+# A recompiled version of Utopia.
 
-Original Video: https://www.youtube.com/watch?v=Zy9N48udcdc&t=449s
+Original video: https://www.youtube.com/watch?v=Zy9N48udcdc&t=449s
+
+Original repository: https://github.com/carykh/Utopia
